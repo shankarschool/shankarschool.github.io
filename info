@@ -40,9 +40,9 @@
     
 <body>
     <button onclick="document.location='index.html'">home</button>
-    <button onclick="document.location='article'">article</button>
-     <button onclick="document.location='sources'">sources</button>
-    <button onclick="document.location='info'">more info</button>
+    <button onclick="document.location='article.html'">article</button>
+     <button onclick="document.location='sources.html'">sources</button>
+    <button onclick="document.location='info.html'">more info</button>
     
     <ul>
   <li><a href="https://policyadvice.net/insurance/insights/self-driving-car-statistics/">Statistics</a></li>
